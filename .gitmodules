@@ -1,0 +1,6 @@
+[submodule "src/cbsexploder"]
+	path = src/cbsexploder
+	url = https://github.com/WitherOrNot/cbsexploder
+[submodule "src/sxsfounder"]
+	path = src/sxsfounder
+	url = https://github.com/WitherOrNot/sxsfounder
